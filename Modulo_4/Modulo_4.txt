@@ -1,1 +1,2 @@
 Modulo 4
+En este modulo se presentan 4 ejemplos de ML tanto supervisado como no supervisado y se retoman algunas definiciones mencionadas en la presentación.
